@@ -10,7 +10,7 @@ function App() {
   return (
     <>
       <div>
-        <h1>Aprendiendo SASS</h1>
+        <h1>Aprendiendo SASS!</h1>
       </div>
       <div className='caja'>
         <h2>Encabezado</h2>
